@@ -17,6 +17,5 @@ A native iOS application built with SwiftUI, designed specifically for Founders 
 - **Repository Size:** 3 tracked files
 - **Latest Update:** `8344218 Initial commit: Native SwiftUI App`
 
-
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
